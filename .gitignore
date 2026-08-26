@@ -1,0 +1,10 @@
+# Source code is NOT published in this repository (closed-source).
+# These paths guard against accidentally committing the extension source.
+
+extension/
+node_modules/
+dist/
+release/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
