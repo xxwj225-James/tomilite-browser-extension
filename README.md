@@ -37,12 +37,6 @@ A browser side-panel AI assistant: summarize / translate / extract the current p
 
 **Closed-source commercial product. © 2026 TomotaVector. All rights reserved.** See [LICENSE](LICENSE). No license is granted to use, copy, modify or redistribute the source code. The release artifacts may be downloaded and installed for personal use.
 
-## 🗺️ Roadmap
-
-- [ ] Chrome / Edge Web Store release (auto-updates)
-- [ ] Pro subscription (unlimited AI, ad-free)
-- [ ] Persistent chat history
-
 ## 💬 Feedback
 
 Open a GitHub Issue or Discussion.
