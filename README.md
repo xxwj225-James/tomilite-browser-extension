@@ -1,6 +1,6 @@
-# TomiLite — Local-First AI Browser Assistant
+# TomiLite — Local-First AI Browser Extension
 
-A browser side-panel AI assistant: summarize / translate / extract the current page, clip selections into tasks & notes, and two-way sync with the TomiLite desktop app. **Bring your own API key — your data never leaves your machine.**
+A browser **extension** with an AI side panel: summarize / translate / extract the current page, clip selections into tasks & notes, and two-way sync with the TomiLite desktop app. **Bring your own API key — your data never leaves your machine.**
 
 > This repository hosts the **release artifacts and documentation** of the extension. The source code is **closed-source** (see [LICENSE](LICENSE)) and is not published here.
 
