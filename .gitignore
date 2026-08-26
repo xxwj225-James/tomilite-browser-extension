@@ -8,3 +8,9 @@ release/
 *.tsbuildinfo
 .DS_Store
 Thumbs.db
+# Internal design docs & prototypes — keep them OUT of the public repo.
+# (README.md / PRIVACY.md / LICENSE are intentional and stay tracked.)
+mockup/
+ADS.md
+DESIGN.md
+UI-DESIGN.md
