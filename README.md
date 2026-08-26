@@ -35,7 +35,7 @@ A browser side-panel AI assistant: summarize / translate / extract the current p
 
 ## 📄 License
 
-**Closed-source commercial product. All rights reserved.** See [LICENSE](LICENSE). No license is granted to use, copy, modify or redistribute the source code. The release artifacts may be downloaded and installed for personal use.
+**Closed-source commercial product. © 2026 TomotaVector. All rights reserved.** See [LICENSE](LICENSE). No license is granted to use, copy, modify or redistribute the source code. The release artifacts may be downloaded and installed for personal use.
 
 ## 🗺️ Roadmap
 
