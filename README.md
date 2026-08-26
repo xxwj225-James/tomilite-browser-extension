@@ -24,6 +24,8 @@ A browser side-panel AI assistant: summarize / translate / extract the current p
 
 ## 🎬 Demo
 
+![TomiLite side panel](docs/screenshot.png)
+
 <!-- TODO: add a 30-second usage GIF -->
 
 ## 🔐 Privacy
