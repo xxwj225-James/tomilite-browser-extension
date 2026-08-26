@@ -28,6 +28,7 @@ A browser side-panel AI assistant: summarize / translate / extract the current p
 
 ## 🔐 Privacy
 
+- Full policy: [PRIVACY.md](PRIVACY.md)
 - API key, tasks, notes and chat history are stored only in your browser (`chrome.storage.local`), **encrypted at rest**
 - The API key is sent **only** to the model provider you configure (the settings page states this explicitly)
 - Ads are not based on your browsing history; affiliate links inside the extension are labeled "Sponsored"
