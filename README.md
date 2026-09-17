@@ -15,7 +15,7 @@ A browser **extension** with an AI side panel: summarize / translate / extract t
 
 ## 📦 Install (developer mode — not on the stores yet)
 
-1. Download the latest `tomilite-browser-v*.zip` from [Releases](https://github.com/xxwj225-James/tomilite-browser-extension/releases)
+1. Download the latest `tomi-browser-extension-v*.zip` from the [release folder](../../tree/main/release) — version info lives in [`release/LATEST.json`](../../blob/main/release/LATEST.json)
 2. Unzip it
 3. Open `chrome://extensions` (or `edge://extensions`) → enable **Developer mode** → **Load unpacked** → select the unzipped folder
 4. Open the side panel → Settings → enter your LLM API key
